@@ -16,21 +16,48 @@ div {
 
 .first {
   /* Add as many CSS lines as you need to here! */
+  margin-right: 40px;
+  margin-top: 30px;
+  padding: 10px;
 }
+
 
 .second {
   /* Add as many CSS lines as you need to here! */
+  margin-right: 40px;
+  margin-left: 50px;
+  margin-top: 20px;
+  margin-bottom: 220px;
+  padding: 25px;
+  padding-top: 25px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 
 .third {
   /* Add as many CSS lines as you need to here! */
+  margin: 0;
+  margin-left: 10px;
+  padding: 25px;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 30px;
 }
 
 .fourth{
   /* Add as many CSS lines as you need to here! */
+  padding: 25px;
+  padding-top: 15px;
+  padding-left: 150px;
+  padding-right: 100px;
+  padding-bottom: 35px;
 }
 
 .fifth {
   text-align: center;
   /* Add as many CSS lines as you need to here! */
+  width: 65px;
+  margin: 0 auto;
+  padding: 20px;
 }
