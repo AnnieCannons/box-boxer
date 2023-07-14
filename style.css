@@ -15,10 +15,13 @@ div {
 /* (Even CSS that overrides the CSS above!) */
 
 .first {
-  /* Add as many CSS lines as you need to here! */
+margin-top: 6em;
+padding: 10px;
+ /* Add as many CSS lines as you need to here! */
 }
 
 .second {
+  padding: 35px 70px;
   /* Add as many CSS lines as you need to here! */
 }
 
@@ -32,5 +35,7 @@ div {
 
 .fifth {
   text-align: center;
+  
+
   /* Add as many CSS lines as you need to here! */
 }
