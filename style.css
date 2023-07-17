@@ -1,7 +1,7 @@
 div {
   background-color: red;
-  width: 65px;
-  height: 65px;
+  width: 200px;
+  height: 200px;
   border: 1px solid black;
   margin-bottom: 30px;
   margin-left: 10px;
@@ -15,22 +15,67 @@ div {
 /* (Even CSS that overrides the CSS above!) */
 
 .first {
-  /* Add as many CSS lines as you need to here! */
-}
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  margin-top: 300px;
+  margin-left: 45px;
+  background-clip: content-box;
+  padding: 30px;
+  }
 
 .second {
-  /* Add as many CSS lines as you need to here! */
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  margin-top: 89px;
+  margin-left: 200px;
+  background-clip: content-box;
+  padding-top: 90px;
+  padding-right: 180px;
+  padding-bottom: 90px;
+  padding-left: 170px;
+  
 }
 
 .third {
-  /* Add as many CSS lines as you need to here! */
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  margin-top: 1700px;
+  margin-left: 45px;
+  background-clip: content-box;
+  padding: 50px;
+  padding-bottom: 150px;
 }
 
 .fourth{
-  /* Add as many CSS lines as you need to here! */
+  background-color: red;
+  width:  200px;
+  height: 200px;
+  border: 1px solid black;
+  margin-top: -30px;
+  margin-left: 45px;
+  background-clip: content-box;
+  padding-top: 30px;
+  padding-left: 420px;
+  padding-right: 250px;
+  padding-bottom: 80px;
 }
 
 .fifth {
   text-align: center;
-  /* Add as many CSS lines as you need to here! */
+  font-size: 55px;
+  font: bolder;
+  font-family: monospace; 
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  padding: 50px;
+  margin: auto;
+  background-clip: content-box;
 }
