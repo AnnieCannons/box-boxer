@@ -15,22 +15,34 @@ div {
 /* (Even CSS that overrides the CSS above!) */
 
 .first {
-  /* Add as many CSS lines as you need to here! */
+  padding: 7px;
 }
 
 .second {
-  /* Add as many CSS lines as you need to here! */
+  margin-inline: 40px;
+  padding-inline: 50px;
+  padding-top: 22px;
+  padding-bottom: 22px;
 }
 
 .third {
-  /* Add as many CSS lines as you need to here! */
+  margin-top: 350px;
+  padding-top: 15px;
+  padding-bottom: 35px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .fourth{
-  /* Add as many CSS lines as you need to here! */
+  margin-top: -30px;
+  padding-top: 8px;
+  padding-bottom: 22px;
+  padding-left: 150px;
+  padding-right: 75px;
 }
 
 .fifth {
+  margin: auto;
   text-align: center;
-  /* Add as many CSS lines as you need to here! */
+  padding: 18px;
 }
