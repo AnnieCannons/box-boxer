@@ -23,7 +23,7 @@ div {
 
 .second {
   /* Add as many CSS lines as you need to here! */
-  margin-left: 100px;
+  margin-left: 50px;
   margin-bottom: 350px;
   padding-top: 30px;
   padding-bottom: 30px;
@@ -33,7 +33,7 @@ div {
 
 .third {
   /* Add as many CSS lines as you need to here! */
-  padding: 1em 1em 3em 1em;
+  padding: 1em 1em 2.5em 1em;
   margin-bottom: -10px;
   
 }
